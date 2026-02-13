@@ -1,0 +1,30 @@
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Generated binaries/libraries
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+
+# Fast DDS / generated artifacts
+*.log
+*.tmp
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
